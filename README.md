@@ -1,2 +1,2 @@
 # draw.io
-Repo to store my draw.io files
+Repo to store my diagrams
